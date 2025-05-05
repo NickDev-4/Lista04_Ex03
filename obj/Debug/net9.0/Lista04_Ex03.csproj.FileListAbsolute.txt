@@ -1,0 +1,15 @@
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista004\Lista04_Ex03\obj\Debug\net9.0\Lista04_Ex03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista004\Lista04_Ex03\obj\Debug\net9.0\Lista04_Ex03.AssemblyInfoInputs.cache
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista004\Lista04_Ex03\obj\Debug\net9.0\Lista04_Ex03.AssemblyInfo.cs
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista004\Lista04_Ex03\obj\Debug\net9.0\Lista04_Ex03.csproj.CoreCompileInputs.cache
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista004\Lista04_Ex03\obj\Debug\net9.0\Lista04_Ex03.sourcelink.json
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista004\Lista04_Ex03\bin\Debug\net9.0\Lista04_Ex03.exe
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista004\Lista04_Ex03\bin\Debug\net9.0\Lista04_Ex03.deps.json
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista004\Lista04_Ex03\bin\Debug\net9.0\Lista04_Ex03.runtimeconfig.json
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista004\Lista04_Ex03\bin\Debug\net9.0\Lista04_Ex03.dll
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista004\Lista04_Ex03\bin\Debug\net9.0\Lista04_Ex03.pdb
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista004\Lista04_Ex03\obj\Debug\net9.0\Lista04_Ex03.dll
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista004\Lista04_Ex03\obj\Debug\net9.0\refint\Lista04_Ex03.dll
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista004\Lista04_Ex03\obj\Debug\net9.0\Lista04_Ex03.pdb
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista004\Lista04_Ex03\obj\Debug\net9.0\Lista04_Ex03.genruntimeconfig.cache
+C:\Users\nicky\Desktop\FATEC\ALP 1\Lista004\Lista04_Ex03\obj\Debug\net9.0\ref\Lista04_Ex03.dll
